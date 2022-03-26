@@ -41,5 +41,5 @@ Videos (to watch **before** your problem session on March 31):
 
 ## Notes & Files from Live-Lecture
 
-[Notes](../_lectures/lecture-02){:target="_blank"}
+[Notes](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
 
