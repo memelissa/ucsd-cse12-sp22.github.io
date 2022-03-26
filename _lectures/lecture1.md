@@ -8,8 +8,6 @@ videos:
       url: https://drive.google.com/file/d/1OQW-Gji89qB8WPkicO2kgzQBzyUauC7F
     - title: "Testing/Review"
       url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
-worksheets:
-
 ---
 ## Problem Session 1 – Introduction/Testing
 
@@ -32,7 +30,7 @@ Session plan:
     - Schedule
     - Lecture 1 and 2 pages
 - 5 min: q/a
-- 15 min: Handout + discussion
+- 45 min: Slides + discussion
 
 Before the first lecture, there are two videos to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
