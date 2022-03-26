@@ -9,18 +9,21 @@ doodle: "/doodle.png"
 
 _Greg Miranda_
 
-In this course, you will learn to write, trace, and test programs; explore the
-interactions between programs and data; and practice organizing programs for
-clarity and re-use.
+This course focuses on two main topics: The basics of organizing data for
+efficient computation, and the design of programs that use collections,
+classes, and interfaces.
 
-We will explore these topics interactively in lecure, you will implement
-programs to practice your programming skills, and you will reflect on this
-learning through your own program designs.
+Each week, we will explore topics in these areas interactively during lectures.
+You will read beyond what we explore in lecture, complete programming
+assignments to hone your coding and program design skills, and take exams that
+test your understanding of what you've learned. After, you'll be better at
+designing and understanding programs and the structure of data they work
+over.
 
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-On an average week in CSE11, you can expect to spend 4-6 hours on videos,
+On an average week in CSE12, you can expect to spend 4-6 hours on videos,
 reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
 hours working on your programming projects. If you find yourself spending
 dramatically more time than this, it's a good idea to contact the course staff
