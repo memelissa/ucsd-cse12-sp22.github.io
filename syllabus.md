@@ -56,7 +56,7 @@ In our originally-scheduled lecture time, we will have an opportunity for live q
 
 Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
 
-**In-person sessions** will be led during the normally-scheduled lecture times
+**In-person lectures** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
 You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
