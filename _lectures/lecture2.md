@@ -43,7 +43,7 @@ Handout (used during the session), [direct link](https://drive.google.com/file/d
 
 [Pre-Lecture 3](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-03)
 
-## Completed Worksheets from Dicussion and Lecture
+## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
