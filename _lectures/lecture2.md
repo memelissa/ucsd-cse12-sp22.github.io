@@ -41,9 +41,9 @@ Handout (used during the session), [direct link](https://drive.google.com/file/d
 
 ## Notes & Files from Pre-Lecture
 
-[Pre-Lecture 3](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
+[Pre-Lecture 3](../_pre-lectures/lecture-03){:target="_blank"}
 
-## Notes & Files from Lecture
+## Notes & Files from Live-Lecture
 
-[Lecture 1](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
+[Lecture 1](/lecture-01){:target="_blank"}
 
