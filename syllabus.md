@@ -232,15 +232,13 @@ guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices
 on academic integrity as well.
 
 <a id="g:exams"></a>
-<h3>Exams</h3>
+<h3>Programming Assessments (Exams</h3>
 
-In place of on-paper exams, we will follow a different procedure for “exams”
-this quarter.
-
-Three times during the quarter and once at the time of the final exam, we will
-give you a programming assignment that you must complete in a short (24-48
-hours) time frame without any help from other people, including the course
-staff. The final exam is cumulative, with three sections that each correspond to
+In place of on-paper exams, three times during the quarter and once at the 
+time of the final exam, we will give you a programming assignment that you 
+must complete in a short (24-48hours) time frame without any help from other people, 
+including the course staff. 
+The final exam is cumulative, with three sections that each correspond to
 the material from one of the in-quarter exams. Your score on the assessment for
 a “third” of the course is the **maximum** of your score on that in-quarter exam
 and that part on the final. 
