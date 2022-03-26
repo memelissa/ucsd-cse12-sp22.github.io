@@ -56,7 +56,7 @@ In our originally-scheduled lecture time, we will have an opportunity for live q
 
 Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
 
-**In-person sessions** will be led during the normally-scheduled lecture times
+**In-person sessions**will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
 You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
@@ -66,7 +66,7 @@ an archive of any live demos that come up rather than a presentation of core con
 
 <h3>Discussion</h3>
 
-Discussions will reinforce concepts from class and introduce concepts that are especially helpful for completing programming assignments. Students from either section can attend either discussion. They will be recorded. Attendance is encouraged but optional.
+**In-person discussion** will reinforce concepts from class and introduce concepts that are especially helpful for completing programming assignments. Students from either section can attend either discussion. They will be recorded. Attendance is encouraged but optional.
 
 Like lectures, discussions will also be recorded and made available in the  Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
   
