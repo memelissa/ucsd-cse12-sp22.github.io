@@ -39,34 +39,7 @@ There are a few components to your grade in the course:
 
 Letter grades will be assigned based on the following grading scale:
 
-<table class="table table-striped">
-<tbody>
-<tr align="center" padding="10">
-<td>A+</td>
-<td>A</td>
-<td>A-</td>
-<td>B+</td>
-<td>B</td>
-<td>B-</td>
-<td>C+</td>
-<td>C</td>
-<td>C-</td>
-<td>D, F</td>
-</tr>
-<tr align="center">
-<td>&nbsp; >97&nbsp; </td>
-<td>&nbsp; 93-96.99 &nbsp; </td>
-<td>&nbsp; 90-92.99&nbsp; </td>
-<td>&nbsp; 87-89.99&nbsp; </td>
-<td>&nbsp; 83-86.99&nbsp; </td>
-<td>&nbsp; 80-82.99&nbsp; </td>
-<td>&nbsp; 77-79.99&nbsp; </td>
-<td>&nbsp; 73-76.99&nbsp; </td>
-<td>&nbsp; 65-72.99&nbsp; </td>
-<td>&nbsp; Below 64.99&nbsp; </td>
-</tr>
-</tbody>
-</table>
+![Grades](grades.png)
 
 We will not round grades up. We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
