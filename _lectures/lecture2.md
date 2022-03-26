@@ -4,15 +4,8 @@ index: 2
 name: Classes and Fields
 released-on: "2022-03-30"
 videos:
-  - title: Introduction to Running Programs
-    url: https://drive.google.com/file/d/1PK-B_xRonGca_x8fLDRl1OPZqSceHk5x
-  - title: Syntax Errors
-    url: https://drive.google.com/file/d/1DHJz-KEbARV4aUio7e2LDsDtjm7qB_YO
-  - title: Arithmetic
-    url: https://drive.google.com/file/d/1lB4Mf9FEtw49V8phNGN1OQJPafkTtkt0
-  - title: Field Access
-    url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
-
+  - title: Review, (Array) Lists
+    url: https://drive.google.com/file/d/1ouaycQpAGEqNo-I-BAeTQwWvFaBnU-6k
 worksheets:
 
 ---
