@@ -33,33 +33,47 @@ and discuss more efficient strategies in office hours.
 
 There are a few components to your grade in the course:
 
-- Completing book exercises in Stepik and course engagement activities (surveys)
-- Programming assignments
-- Programming assessments (exams)
+- Course engagement activities (weekly quizzes and surveys) (20%)
+- Programming assignments (20%)
+- Programming assessments (exams) (60%)
 
-Your final letter grade will be calculated as follows:
+Letter grades will be assigned based on the following grading scale:
 
-- To get an A or above, you must:
-  - Complete **95%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **85%** for the eight programming assignments
-  - Get an average score of **85%** for the three assessmesnts (exams)
-
-- To get a B or above, you must:
-  - Complete **85%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **75%** for the eight programming assignments
-  - Get an average score of **75%** for the three assessmesnts (exams)
-
-- To get a C- or above (a P on the P/NP scale), you must:
-  - Complete **70%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **60%** for the eight programming assignments
-  - Get an average score of **60%** for the three assessmesnts (exams)
+<table class="table table-striped">
+<tbody>
+<tr align="center" padding="10">
+<td>A+</td>
+<td>A</td>
+<td>A-</td>
+<td>B+</td>
+<td>B</td>
+<td>B-</td>
+<td>C+</td>
+<td>C</td>
+<td>C-</td>
+<td>D, F</td>
+</tr>
+<tr align="center">
+<td>&nbsp; >97&nbsp; </td>
+<td>&nbsp; 93-96.99 &nbsp; </td>
+<td>&nbsp; 90-92.99&nbsp; </td>
+<td>&nbsp; 87-89.99&nbsp; </td>
+<td>&nbsp; 83-86.99&nbsp; </td>
+<td>&nbsp; 80-82.99&nbsp; </td>
+<td>&nbsp; 77-79.99&nbsp; </td>
+<td>&nbsp; 73-76.99&nbsp; </td>
+<td>&nbsp; 65-72.99&nbsp; </td>
+<td>&nbsp; Below 64.99&nbsp; </td>
+</tr>
+</tbody>
+</table>
 
 We will not round grades up. We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
-Pluses and minuses will be given at the instructors'
-discretion around the boundaries of these categorizations.
+
+In addition, you must average **65%** on all three exams in order to pass the course.
 
 <h3>Problem Sessions – Lecture</h3>
 
@@ -80,12 +94,39 @@ an archive of any live demos that come up rather than a presentation of core con
 
 Teaching Assistants (TAs) will hold a weekly discussion section to cover the weekly 
 programming assignment, review prior content, and answer student questions.
- Participation is not required at problem-solving sections, but it is highly encouraged.
+Participation is not required at problem-solving sections, but it is highly encouraged.
 
 Like lectures, discussions will also be recorded and made available in the 
 Cavnas Media Gallery.
 
 ### Book Exercises/Quizzes and Course Engagement
+
+There is no required textbook for the course. 
+
+There is a zyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant ZyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
+
+1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
+2. Enter zyBook code: UCSDCSE12MirandaSpring2022
+3. Subscribe
+
+If you cannot afford the book or have questions about using your financial aid, please see this page: <a  target="_blank" href="https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-">https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-</a>
+
+We may use other on-line resources during the quarter that may be required
+reading or activities. These will all be free and linked from the schedule.
+
+<a href="https://docs.oracle.com/javase/15/" target="_blank">The
+documentation for the Java language</a>, while not required reading, will be
+linked to from some assignments and is always a useful reference while
+programming. We will be using Java version **15** for the programming
+assignments in this course, which is available at <a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">Oracle's web site</a>.
+
+weekly quizzes
+
+
+
+
+
+
 
 Along with each lecture will come some required pre-lecture work. Most often
 this will be reading and activities from our [Stepik
@@ -103,6 +144,10 @@ After this time, no late submissions will be accepted, for any reason.
 
 To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/oupi3xifMT6zxTKE6)
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
+
+
+
+
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
@@ -151,12 +196,11 @@ For example:
 
 - On the three in-quarter exams you score 75, 0, and 95 (you miss the second). On
 the final exam you score 80, 75, and 0 on the three parts. Your assessment scores
-are 95, 75, 80, sufficient for a B, but not an A.
+are 95, 75, 80.
 - On the three in-quarter exams you score 95, 93, and 90. You skip the final so
-your scores are 0, 0, 0. Your assessment scores are 95, 93, 90, sufficient for an
-A.
+your scores are 0, 0, 0. Your assessment scores are 95, 93, 90.
 - On the three in-quarter exams you score 75, 55, and 60. On the final you score 95,
-90, 94. Your assessment scores are 95, 90, 94, sufficient for an A.
+90, 94. Your assessment scores are 95, 90, 94.
 
 This grading policy also forms the missed exam policy – if you miss an
 in-quarter exam, you can make up that credit on the final. If you miss the
