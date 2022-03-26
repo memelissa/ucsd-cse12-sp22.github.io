@@ -46,7 +46,7 @@ We will not round grades up. We may adjust the above scale to be more lenient
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
 
-In addition, you must average **65%** on all three exams in order to pass the course.
+In addition, you must average **65%** on on the programming assessments (exams) in order to pass the course.
 
 <h3>Problem Sessions – Lecture</h3>
 
