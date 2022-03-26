@@ -4,7 +4,10 @@ index: 1
 name: Introduction
 released-on: "2022-03-28"
 videos:
-
+    - title: "Welcome"
+      url: https://drive.google.com/file/d/1OQW-Gji89qB8WPkicO2kgzQBzyUauC7F
+    - title: "Testing/Review"
+      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
 worksheets:
 
 ---
@@ -21,16 +24,16 @@ and code examples, notes, and recordings from the problem solving session.
 Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
-- 15 min: Handout + discussion
 - 20 min: syllabus
     - Problem Solving Sessions, videos
-    - Stepik
+    - zyBooks
     - Programming
     - Exams
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
 - 5 min: q/a
+- 15 min: Handout + discussion
 
 Before the first lecture, there are no videos to watch. You should familiarize
 yourself with the [syllabus](../syllabus.html).
