@@ -45,10 +45,5 @@ Handout (used during the session), [direct link](https://drive.google.com/file/d
 
 ## Notes & Files from Lecture
 
-{% for worksheet in page.worksheets %}
-<div class="worksheetBox">
-{{ worksheet.title }}
-<br>
-<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
-</div>
-{% endfor %}
+[Lecture 1](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
+
