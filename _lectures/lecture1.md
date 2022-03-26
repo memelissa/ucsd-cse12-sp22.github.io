@@ -15,7 +15,6 @@ worksheets:
 
 _{{ page.released-on }}_
 
-
 Welcome to the page for the first problem session! Each problem session will
 come with a page like this that summarizes the videos you should watch and
 readings you should complete **beforehand**, along with any handouts for the day
@@ -35,7 +34,7 @@ Session plan:
 - 5 min: q/a
 - 15 min: Handout + discussion
 
-Before the first lecture, there are no videos to watch. You should familiarize
+Before the first lecture, there are two videos to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
 
 Videos (to watch **before** your problem session on March 31):
@@ -46,13 +45,6 @@ Videos (to watch **before** your problem session on March 31):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-The handout for the first day has a few questions for us to use as icebreakers
-and to start talking about programming. You can access [the PDF
-directly](https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview){:target="_blank"}
-on Google Drive to download it.
-
-<iframe src="https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
@@ -62,4 +54,3 @@ on Google Drive to download it.
 <iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
-
