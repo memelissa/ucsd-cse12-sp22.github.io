@@ -46,14 +46,15 @@ We will not round grades up. We may adjust the above scale to be more lenient
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
 
-In addition, you must average **65%** on on the programming assessments (exams) in order to pass the course.
+In addition, you must average **65%** on the programming assessments (exams) in order to pass the course.
 
 <h3>Problem Sessions – Lecture</h3>
 
-Most course content will be presented asynchronously through videos and
-readings, with associated interactive activities. Lectures will involve problem
-solving with your classmates. Participation is not required at problem-solving
-sections, but it is highly encouraged.
+Most lecture content will be presented asynchronously through videos and readings. These will come with associated weekly quizzes that are due on the following Monday at the start of our originally-scheduled lecture time. The quizzes are required work to demonstrate your consistent engagement with the material.
+
+In our originally-scheduled lecture time, we will have an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. 
+
+Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
 
 **In-person sessions** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
@@ -65,12 +66,9 @@ an archive of any live demos that come up rather than a presentation of core con
 
 <h3>Discussion</h3>
 
-Teaching Assistants (TAs) will hold a weekly discussion section to cover the weekly 
-programming assignment, review prior content, and answer student questions.
-Participation is not required at problem-solving sections, but it is highly encouraged.
+Discussions will reinforce concepts from class and introduce concepts that are especially helpful for completing programming assignments. Students from either section can attend either discussion. They will be recorded. Attendance is encouraged but optional.
 
-Like lectures, discussions will also be recorded and made available in the 
-Cavnas Media Gallery.
+Like lectures, discussions will also be recorded and made available in the  Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
 
 ### Book Exercises/Quizzes and Course Engagement
 
@@ -94,10 +92,6 @@ programming. We will be using Java version **15** for the programming
 assignments in this course, which is available at <a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">Oracle's web site</a>.
 
 weekly quizzes
-
-
-
-
 
 
 
