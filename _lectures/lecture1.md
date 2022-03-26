@@ -51,7 +51,7 @@ Videos (to watch **before** your problem session on March 31):
 
 [Pre-Lecture 2](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-02)
 
-## Completed Worksheets from Dicussion and Lecture
+## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
