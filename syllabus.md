@@ -232,7 +232,7 @@ guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices
 on academic integrity as well.
 
 <a id="g:exams"></a>
-<h3>Programming Assessments (Exams</h3>
+<h3>Programming Assessments (Exams)</h3>
 
 In place of on-paper exams, three times during the quarter and once at the 
 time of the final exam, we will give you a programming assignment that you 
@@ -266,8 +266,8 @@ for practice with this process, and much more detailed instructions with the
 exam release.
 
 We **do not** expect that the programming work and recording will take a full
-day of constant work. The tasks will be significantly shorter than the PAs, so this
-should only take a few hours. We give the broad range to give you the best
+day of constant work. The tasks will be significantly shorter than the PAs, but not necessarily any easier.
+We give the broad range to give you the best
 chance to schedule some quiet, focused time to do the work and record the
 presentation.
 
