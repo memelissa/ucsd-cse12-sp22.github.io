@@ -5,13 +5,13 @@ title: "UCSD CSE12 – Accelerated Introduction to Programming"
 # UCSD CSE 12 Spring 2022
 ## Asking Questions and Getting Help
 
-There are 16 staff members (instructor, TAs, and tutors) to help with your
+There are 9 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/spring2022/cse11_sp22/home](https://piazza.com/ucsd/spring2022/cse11_sp22/home)
+- Piazza Message Board: [https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Tutoring Procedurs: [https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
@@ -28,7 +28,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/winter2022/cse11_wi22/home](https://piazza.com/ucsd/winter2022/cse11_wi22/home)
+[https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home)
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
@@ -96,16 +96,10 @@ the exam (but not necessarily flexibility to take it on other days).
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse11-s20.github.io/), which will give you a sense. This
+course](https://ucsd-cse12-sp21.github.io/), which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
-
-**I'm not sure if I should take CSE11 or CSE8A.**
-
-We endorse the [CSE course placement
-advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
-Also feel free to message g2miranda@eng.ucsd.edu if you're not sure.
 
 **Can I audit the course?**
 
@@ -115,7 +109,7 @@ community member, you can view all the podcasts for the problem sessions at
 have any formalized support for auditing the course.
 
 
-**What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
+**What if I have enrolled in CSE12 but won't be able to be in La Jolla for most
 or all of Spring 2022?**
 
 If the attendance policy above doesn't address your situation, please contact
