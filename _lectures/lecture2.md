@@ -37,7 +37,7 @@ Videos (to watch **before** your problem session on March 31):
 
 ## Notes & Files from Pre-Lecture
 
-[Pre-Lecture 3](../_pre-lectures/lecture-03){:target="_blank"}
+[Pre-Lecture 3](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
 
 ## Notes & Files from Live-Lecture
 
