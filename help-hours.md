@@ -1,12 +1,12 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE11 – Accelerated Introduction to Programming"
+title: "UCSD CSE12 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 11 Spring 2022
+# UCSD CSE 12 Spring 2022
 
 ## Meeting with Staff
 
-The main reasons to come see the staff in CSE11 is:
+The main reasons to come see the staff in CSE12 is:
 
 1. You need help on an assignment, 
 2. Reviewing past work

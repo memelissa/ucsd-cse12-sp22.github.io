@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE11 – Accelerated Introduction to Programming"
+title: "UCSD CSE12 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 11 Spring 2022
+# UCSD CSE 12 Spring 2022
 ## Asking Questions and Getting Help
 
 There are 16 staff members (instructor, TAs, and tutors) to help with your

@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE11 Spring 22"
+title: "Syllabus – UCSD CSE12 Spring 22"
 doodle: "/doodle.png"
 ---
 

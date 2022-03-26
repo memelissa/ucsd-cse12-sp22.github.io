@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE11 Spring 22"
+title: "Syllabus – UCSD CSE12 Spring 22"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 11 Spring 2022
-## Accelerated Intro to Programming
+# UCSD CSE 12 Spring 2022
+## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
 

@@ -1,9 +1,9 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE11 – Accelerated Introduction to Programming"
+title: "UCSD CSE12 – Accelerated Introduction to Programming"
 ---
 
-# UCSD CSE 11 Spring 2022
+# UCSD CSE 12 Spring 2022
 ## Accelerated Intro to Programming
 
 _Greg Miranda_
