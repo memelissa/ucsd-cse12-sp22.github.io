@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 1
-name: Introduction
+name: Introduction/Testing
 released-on: "2022-03-29"
 videos:
     - title: "Welcome"
