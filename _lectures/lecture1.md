@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 1
 name: Introduction
-released-on: "2022-03-28"
+released-on: "2022-03-29"
 videos:
     - title: "Welcome"
       url: https://drive.google.com/file/d/1OQW-Gji89qB8WPkicO2kgzQBzyUauC7F
@@ -37,6 +37,14 @@ Session plan:
 
 Before the first lecture, there are no videos to watch. You should familiarize
 yourself with the [syllabus](../syllabus.html).
+
+Videos (to watch **before** your problem session on March 31):
+
+{% for video in page.videos %}
+[{{ video.title }}]({{ video.url }}){:target="_blank"}
+
+<iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
+{% endfor %}
 
 The handout for the first day has a few questions for us to use as icebreakers
 and to start talking about programming. You can access [the PDF
