@@ -69,12 +69,12 @@ an archive of any live demos that come up rather than a presentation of core con
 Discussions will reinforce concepts from class and introduce concepts that are especially helpful for completing programming assignments. Students from either section can attend either discussion. They will be recorded. Attendance is encouraged but optional.
 
 Like lectures, discussions will also be recorded and made available in the  Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
-
+  
 ### Book Exercises/Quizzes and Course Engagement
 
 There is no required textbook for the course. 
 
-There is a zyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant ZyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
+There is a zyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant zyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
 
 1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
 2. Enter zyBook code: UCSDCSE12MirandaSpring2022
@@ -85,36 +85,17 @@ If you cannot afford the book or have questions about using your financial aid, 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
 
-<a href="https://docs.oracle.com/javase/15/" target="_blank">The
-documentation for the Java language</a>, while not required reading, will be
-linked to from some assignments and is always a useful reference while
-programming. We will be using Java version **15** for the programming
-assignments in this course, which is available at <a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">Oracle's web site</a>.
-
-weekly quizzes
-
-
-
 Along with each lecture will come some required pre-lecture work. Most often
-this will be reading and activities from our [Stepik
-textbook](https://stepik.org/course/100177/syllabus), and will also sometimes
+this will be reading and activities from the weekly lecture quizzes, and will also sometimes
 include surveys or check-in quizzes so we can get your feedback about the course
 and check on your understanding.
 
-The online texbook records your progress, and we give a schedule of expected
-times to finish the readings. There is no penalty for completing these late, but
-they are assigned so that you will be prepared to participate in problem solving
-session and so that you know the expected pace of the course. 
+The weekly lecture quizzes are in Gradescope and can be re-taken as often as you like.
+There is no penalty for completing these late, but they are assigned so that you will 
+be prepared to participate in problem solving session and so that you know the expected pace of the course. 
 
-All Stepik exercises must be completed by the last day of class in Week 10: March 11, 2022 at 10pm.
+All weekly lecture quizzes must be completed by the last day of class in Week 10: June 3, 2022 at 10pm.
 After this time, no late submissions will be accepted, for any reason.
-
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/oupi3xifMT6zxTKE6)
-by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
-
-
-
-
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
@@ -144,6 +125,112 @@ before the original deadline.
 
 The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
 any submissions after that time, for any reason.
+
+### <a id="p:open-closed">Collaboration</a>
+
+**This is not the same collaboration policy you have seen in your other
+programming courses. Read it carefully.**
+
+In your professional programming life, some of your work will be highly
+collaborative with lots of expert advice available from senior developers and
+from sites like StackOverflow. This is a common case in companies, in
+academia, and on open-source projects. It's a great way to get exposed to new
+techniques, share knowledge, and generally enjoy teamwork. In contrast, some
+of your work will involve figuring out programming problems on your own,
+where you are the first person to encounter an issue, or the first person to
+try using a new library in the context of your application. You should get
+experience in both types of situations; we might call the former kind of
+problem **open to collaboration** and the latter **closed to collaboration**.
+
+In terms of courses, this split also makes sense. Programming assignments
+serve (at least) two roles. First and foremost, they are a mechanism for you
+to learn! By directly applying the techniques and skills we discuss in class,
+you get practice and become a better programmer. Second, they are an
+assessment mechanism – as instructional staff we use them to evaluate your
+understanding of concepts as demonstrated by your programs. Open
+collaboration can reduce frustration while learning and give you chances to
+enjoy collaboration and lots of help, but may not let us accurately evaluate
+your understanding. Closed assignments are an opportunity for
+you to demonstrate what you know by way of programming.
+
+There are two types of assignments in this course, **open** and **closed**:
+
+- **Open** assignments, for which you can talk to anyone else
+  in the course, post snippets of code on Piazza, get lots of help from TAs,
+  and generally come up with solutions collaboratively. TAs will be happy to
+  look at your code and suggest approaches and fixes.
+  
+  There are a few restrictions:
+  - Any code that you didn't write must be cited in the README file that goes
+    along with your submission
+
+    **Example:** On an open assignment, you and another
+    student chat online about the solution, you figure out a particular
+    helper method together. Your README should say “The FOO function was
+    developed in collaboration with Firstname Lastname”
+
+    **Example:** On an open assignment, a student posts the
+    recursive method calls they used to solve a problem you were
+    struggling with. Your README should say “I used the code from
+    https://piazza.com/class/id-of-post”.
+
+    **Example:** You and another student sit next to each other,
+    and point out mistakes and errors to one another as you work through
+    the assignment. As a result, your solutions are substantially similar.
+    Your README should say “I collaborated with Firstname Lastname to
+    develop my solution.”
+    
+  - You cannot share an entire repository of code or paste an entire solution
+    into Piazza. Keep snippets to reasonable, descriptive chunks of code; think
+    a dozen lines or so to get the point across.
+  - You still _cannot_ use code that you find online (no copying code
+    from StackOverflow or blogs online), or get assistance or code from
+    students outside of this offering of the class. All the code that is
+    handed in should be developed by you or someone in the class.
+  - You are responsible for _understanding_ all the code you have written.
+    All of the programming problems on the PAs may show up on exams, where
+    you will need to have a thorough understanding of the PA to answer the
+    questions.
+
+  This doesn't mean the staff will be handing out answers. We'll mostly
+  respond with leading questions and advice, and you shouldn't expect a
+  direct answer to questions like “am I done?” or “is my code right?”
+
+  There is no guarantee the assistance you get from your classmates is
+  correct. It is your responsibility to use your judgment to avoid using an
+  idea on Piazza that is wrong, or doesn't work with your solution; we won't
+  necessarily tell you one way or another while the assignment is out.
+
+  If we see that you used code from other students and didn't cite it in the
+  README, the penalty will range from a point deduction to an academic
+  integrity violation, depending on the severity. Always cite your work!
+
+- **Closed** assignments, where you cannot collaborate with others. The closed 
+assignments this quarter are the programming assessments (exams). You cannot ask 
+clarification questions but you can report potential issues as private posts on
+Piazza or to staff members. Staff will not look at your code or comment on it. 
+There will no Lab/office hours during closed exams. These programming assesments
+are take-home exams.
+
+  On closed assignments/assessments:
+    - You cannot look at or use anyone else's code in any way.
+    - You cannot discuss the assignment, even in general terms, with anyone.
+    - You should expect that staff members will politely say “The course
+      policy says I can't help with that” if you ask a question about your
+      algorithm or code.
+    - You cannot post publicly about the assignment on Piazza or elsewhere
+      online.
+    - All of the examples in the open section above would be
+      academic integrity violations.
+
+Programming assignments are considered open or while all programming
+assessments (exams) are closed collaboration.
+
+You should be familiar with [the UCSD
+guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
+on academic integrity as well.
+
+
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
