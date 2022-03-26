@@ -53,4 +53,4 @@ Videos (to watch **before** your problem session on March 31):
 
 ## Notes & Files from Live-Lecture
 
-[Notes](../_lectures//lecture-01){:target="_blank"}
+[Notes](../_lectures/lecture-01){:target="_blank"}
