@@ -20,7 +20,7 @@ that you may meet with tutors and TAs to receive help. Office hours to meet with
 are a different option, and are explained later on this page. 
 
 The process for getting help can be found in the
-[Tutoring Procedurs](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
+[Tutoring Procedurs](https://docs.google.com/document/d/1v2zeSIOxNwo2YBY952HKplxH8FgDSxdIvIoeVEL76x4/edit?usp=sharing)
 document.
 
 Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
