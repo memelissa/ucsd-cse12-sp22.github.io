@@ -74,7 +74,7 @@ Instructors for this course:
   - **Remote only office hours**: Thursday 9:45am-11:15am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
   
 ### Our Staff
-The friendly faces of this course! We have 16 staff members(instructors, TAs, and tutors) here 
+The friendly faces of this course! We have 9 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRt1dqZyX4wVDrgTWKG0P1HoMs9t6MUpA-MPi1YlSEu2Nc04hchw1APAlyCjE8_NPaDh9YjSkShk80d/pubhtml?widget=true&amp;headers=false"
