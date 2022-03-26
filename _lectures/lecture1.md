@@ -11,7 +11,7 @@ videos:
 worksheets:
 
 ---
-## Problem Session 1 – Introduction
+## Problem Session 1 – Introduction/Testing
 
 _{{ page.released-on }}_
 
