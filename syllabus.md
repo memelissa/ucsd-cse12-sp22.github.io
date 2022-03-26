@@ -126,7 +126,8 @@ before the original deadline.
 The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
 any submissions after that time, for any reason.
 
-### <a id="p:open-closed">Collaboration</a>
+<a id="p:open-closed"></a>
+<h3>Collaboration</h3>
 
 **This is not the same collaboration policy you have seen in your other
 programming courses. Read it carefully.**
@@ -179,7 +180,7 @@ There are two types of assignments in this course, **open** and **closed**:
     the assignment. As a result, your solutions are substantially similar.
     Your README should say “I collaborated with Firstname Lastname to
     develop my solution.”
-    
+
   - You cannot share an entire repository of code or paste an entire solution
     into Piazza. Keep snippets to reasonable, descriptive chunks of code; think
     a dozen lines or so to get the point across.
@@ -229,8 +230,6 @@ assessments (exams) are closed collaboration.
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
-
-
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
