@@ -5,7 +5,7 @@ doodle: "/doodle.png"
 ---
 
 # UCSD CSE 12 Spring 2022
-## Accelerated Intro to Programming
+## Basic Data Structures and Object-Oriented Design
 
 ### Problem Session and Instructor Office Hours
 

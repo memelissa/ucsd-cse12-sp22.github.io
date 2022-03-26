@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE12 – Accelerated Introduction to Programming"
+title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 ---
 
 # UCSD CSE 12 Spring 2022
-## Accelerated Intro to Programming
+## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
 
