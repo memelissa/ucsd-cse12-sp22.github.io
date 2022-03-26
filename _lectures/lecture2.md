@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 2
 name: Classes and Fields
-released-on: "2022-03-30"
+released-on: "2022-03-31"
 videos:
   - title: Review, (Array) Lists
     url: https://drive.google.com/file/d/1ouaycQpAGEqNo-I-BAeTQwWvFaBnU-6k
@@ -27,7 +27,7 @@ need to make an account on Stepik to have your work saved.
 To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/oupi3xifMT6zxTKE6)
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
-Videos (to watch **before** your problem session on March 30):
+Videos (to watch **before** your problem session on March 31):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
