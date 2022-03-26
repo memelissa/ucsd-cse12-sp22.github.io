@@ -4,7 +4,7 @@ title: "Syllabus – UCSD CSE12 Spring 22"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 11 Spring 2022
+# UCSD CSE 12 Spring 2022
 ## Accelerated Intro to Programming
 
 ### Problem Session and Instructor Office Hours
