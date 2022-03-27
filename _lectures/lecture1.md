@@ -36,7 +36,7 @@ Session plan:
 Before the first lecture, there are two videos to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
 
-Please do the [Pre-test/survey](https://forms.gle/o9ivk9VMjorSU8L97) by Friday, April 1st by 10pm.
+Please do the [Pre-test/survey](https://forms.gle/o9ivk9VMjorSU8L97){:target="_blank"} by Friday, April 1st by 10pm.
 
 Videos (to watch **before** your problem session on March 31):
 
