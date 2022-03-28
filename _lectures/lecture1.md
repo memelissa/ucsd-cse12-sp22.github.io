@@ -31,8 +31,7 @@ Session plan:
     - Schedule
     - Lecture 1 and 2 pages
 - 5 min: q/a
-- 10 min: jUnit Demo
-- 30 min: handout + discussion
+- 40 min: handout + discussion
 
 Before the first lecture, there are two videos to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
