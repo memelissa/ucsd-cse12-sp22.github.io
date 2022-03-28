@@ -22,7 +22,7 @@ and code examples, notes, and recordings from the problem solving session.
 Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
-- 20 min: syllabus
+- 30 min: syllabus
     - Problem Solving Sessions, videos
     - zyBooks
     - Programming
@@ -31,7 +31,8 @@ Session plan:
     - Schedule
     - Lecture 1 and 2 pages
 - 5 min: q/a
-- 45 min: Slides + discussion
+- 10 min: jUnit Demo
+- 30 min: handout + discussion
 
 Before the first lecture, there are two videos to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
@@ -51,6 +52,10 @@ Videos (to watch **before** your problem session on March 31):
 [Pre-Lecture 1](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
 
 [Pre-Lecture 2](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
+
+## Handout
+
+<iframe src="https://drive.google.com/file/d/1vgG27BR__kP7YFxi9_c_3ph759frNB7q/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
