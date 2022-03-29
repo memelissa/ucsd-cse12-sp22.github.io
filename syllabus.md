@@ -50,7 +50,7 @@ In addition, you must average **65%** on the programming assessments (exams) in 
 
 <h3>Problem Sessions – Lecture</h3>
 
-Most lecture content will be presented asynchronously through videos and readings. These will come with associated weekly quizzes that are due Friday at 10pm. The quizzes are required work to demonstrate your consistent engagement with the material and can be turned in late for full credit by the end of the quarter.
+Most lecture content will be presented asynchronously through videos and readings. These will come with associated weekly quizzes that are due Monday at 10pm. The quizzes are required work to demonstrate your consistent engagement with the material and can be turned in late for full credit by the end of the quarter.
 
 In our originally-scheduled lecture time, we will have an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. 
 
