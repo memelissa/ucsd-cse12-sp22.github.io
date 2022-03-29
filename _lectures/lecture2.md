@@ -14,6 +14,8 @@ _{{ page.released-on }}_
 
 Please do the [Pre-test/survey](https://forms.gle/o9ivk9VMjorSU8L97){:target="_blank"} by Friday, April 1st by 10pm.
 
+[Lecture Quiz 1] (https://www.gradescope.com/courses/381276/assignments/1958223/review_grades){:target="_blank"}
+
 Readings (optional)
 - zyBooks Chapter 1 - Introduction to Data Structures and Algorithms
 - zyBooks Chatper 2 - Lists, Stacks, and Queues
