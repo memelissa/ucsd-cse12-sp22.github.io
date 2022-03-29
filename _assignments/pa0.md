@@ -5,9 +5,9 @@ name: PA0
 released-on: "2022-03-28"
 ---
 
-# CSE 12 Programming Assignment 0 (Optional): Computer Setup
+# CSE 12 Programming Assignment 0 (Optional)
 
-### Will be released on: Wednesday, March 30
+### Computer Setup
 
 This optional assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects. If you already have the JDK installed from a previous quarter and a way to edit, compile and run Java programs, then you can skip this assignment. Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required.
 
