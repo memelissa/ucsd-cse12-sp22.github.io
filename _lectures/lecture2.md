@@ -32,7 +32,7 @@ Videos (to watch **before** your problem session on March 31):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-## Notes & Files from Pre-Lecture
+## Notes & Files from Pre-Lecture Videos
 
 [Pre-Lecture 3](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
 
