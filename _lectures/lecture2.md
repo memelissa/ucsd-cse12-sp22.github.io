@@ -36,6 +36,10 @@ Videos (to watch **before** your problem session on March 31):
 
 [Pre-Lecture 3](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
 
+## Handout
+
+<iframe src="https://drive.google.com/file/d/1wkTSIvBc8gmaAriyLs2FoqFiYl-yE-nH/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Notes & Files from Live-Lecture
 
 [Notes](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
