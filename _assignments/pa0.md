@@ -42,7 +42,7 @@ Open Eclipse and wait for it to prompt you to select a workspace. You may use th
 
 To open the give starter code, navigate to `File` > `Open Projects from File System...`, from here a new window should open.   
 Click on `Directory` and select the folder `pa0-starter`. Then click 'Finish'.
-![](https://i.imgur.com/j1cGMAR.png)
+![](https://i.imgur.com/j1cGMAR.png){:width="100%"}
 
   
 After the project is loaded into eclipse, go the *Package Explorer* tab and click on the drop down arrows to reveal the file contents of `pa0-starter`. If the *Package Explorer* is not automatically visible, you can open it by navigating to `Window` > `Show View` > `Package Explorer`. 
