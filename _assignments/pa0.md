@@ -58,15 +58,15 @@ You have successfully ran a program on eclipse!
 
 If you tried to run the program and encounter a `java.lang.ClassNotFoundException` (shown below), then you may need to configure the **Java build path** for the Eclipse project you just imported.
 
-![](https://i.imgur.com/LsIkOJq.png)
+![](https://i.imgur.com/LsIkOJq.png){:width="100%"}
 
 To do so, hover over the *pa0-starter* project folder icon on the package explorer (see below) and right click to open up a menu. Hover over the `Build Path` option then click `Configure Build Path`.
 
-![](https://i.imgur.com/591y7Qc.png)
+![](https://i.imgur.com/591y7Qc.png){:width="100%"}
 
 A new window will pop up, hopefully showing that the JRE library under *Modulepath* is *JRE System Library [jdk-18] (unbound)*. To specify the correct JRE, click on the current JRE > click the `Edit` button on the left > Check the `Workspace default JRE` option on the new pop-up window > `Finish` > `Apply and Close`.
 
-![](https://i.imgur.com/Luh0ncz.png)
+![](https://i.imgur.com/Luh0ncz.png){:width="100%"}
 
 Now, the errors highlighted on the code editor should disappear and your program should run properly. If this does not resolve your issue or there are more issues, please visit tutor hours.
 
