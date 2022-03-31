@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_
 
-[Lecture Quiz 2](https://www.gradescope.com/courses/381276/assignments/1958223/){:target="_blank"} due Monday by 10pm.
+[Lecture Quiz 2](https://www.gradescope.com/courses/381276/assignments/1964285/){:target="_blank"} due Monday by 10pm.
 
 Readings (optional)
 - zyBooks Chapter 3 - Introduction to Data Structures and Algorithms
