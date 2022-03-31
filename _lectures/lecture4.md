@@ -15,8 +15,8 @@ _{{ page.released-on }}_
 [Lecture Quiz 2](https://www.gradescope.com/courses/381276/assignments/1964285/){:target="_blank"} due Monday by 10pm.
 
 Readings (optional)
-- zyBooks Chapter 3 - Introduction to Data Structures and Algorithms
-- zyBooks Chatper 4 - Lists, Stacks, and Queues
+- zyBooks Chapter 3 - Exceptions
+- zyBooks Chatper 4 - Generics
 
 Videos (to watch **before** your problem session on April 7):
 
