@@ -1,6 +1,8 @@
 ---
-tags: CSE12SP22
----
+layout: with-sidebar
+index: 2
+name: PA2
+released-on: "2022-04-06"
 ---
 
 # PA2: Lists
