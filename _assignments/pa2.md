@@ -5,9 +5,11 @@ name: PA2
 released-on: "2022-04-06"
 ---
 
-# PA2: Lists
----
+# CSE 12 Programming Assignment 2
 
+### Lists
+
+**This assignment is open to collaboration.**
 
 You should finish reading the whole writeup before you start to code. 
 
