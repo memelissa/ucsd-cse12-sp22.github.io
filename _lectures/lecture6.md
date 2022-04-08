@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 6
-name: ADTs and Measuring Runtime Intro/Counting Steps
+name: Counting Steps
 released-on: "2022-04-14"
 videos:
   - title: Counting Steps
