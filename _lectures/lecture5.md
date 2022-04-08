@@ -26,9 +26,9 @@ Videos (to watch **before** your problem session on April 12):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 7](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-06){:target="_blank"}
+[Pre-Lecture 7](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-07){:target="_blank"}
 
-[Pre-Lecture 8](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-06){:target="_blank"}
+[Pre-Lecture 8](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-08){:target="_blank"}
 
 ## Handout
 
