@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 5
-name: Stacks, Queues, 2D Search
+name: Stacks and Queues
 released-on: "2022-04-12"
 videos:
   - title: Stacks, Queues, 2D Search
