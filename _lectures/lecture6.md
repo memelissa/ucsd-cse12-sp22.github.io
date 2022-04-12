@@ -28,6 +28,7 @@ Videos (to watch **before** your problem session on April 14):
 
 ## Handout
 
+<iframe src="https://drive.google.com/file/d/1AKtOpX8DNax7EP99_v3Wys6g0u3GjTAU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
