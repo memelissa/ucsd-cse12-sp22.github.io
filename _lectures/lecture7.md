@@ -14,7 +14,7 @@ _{{ page.released-on }}_
 
 [Lecture Quiz 4](https://www.gradescope.com/courses/381276/assignments/1999842/){:target="_blank"} due Monday by 10pm.
 
-Videos (to watch **before** your problem session on April 12):
+Videos (to watch **before** your problem session on April 19):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
