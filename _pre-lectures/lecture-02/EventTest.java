@@ -8,9 +8,9 @@ public class EventTest {
 	public void testEventConstructor() {
 		LocalDateTime s1 = LocalDateTime.of(2020, 10, 1, 9, 45);
 		LocalDateTime s2 = LocalDateTime.of(2020, 10, 1, 10, 45);
-		
+		//static method of year, month, day, time (9:45)
 		Event e1 = new Event(s1, s2, "WLH 2005");
-		
+		// calls the constructor 
 		assertEquals(e1.start, s1);
 		assertEquals(e1.end, s2);
 		assertEquals(e1.location, "WLH 2005");
