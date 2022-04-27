@@ -21,7 +21,7 @@ This PA is due on ** **Tuesday, May 3 at 10:00pm** **
 
 ## Getting the Code
 
-The starter code can be found from: https://github.com/ucsd-cse12-sp22/cse12-pa5-Partition. If you are not familiar with Github, here are two easy ways to get your code.
+The starter code can be found from: [https://github.com/ucsd-cse12-sp22/cse12-pa5-Partition](https://github.com/ucsd-cse12-sp22/cse12-pa5-Partition). If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
