@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_  
 
-[Lecture Quiz 5](https://www.gradescope.com/courses/381276/assignments/2016188/){:target="_blank"} due Monday by 10pm.
+[Lecture Quiz 6](https://www.gradescope.com/courses/381276/assignments/2016188/){:target="_blank"} due Monday by 10pm.
 
 Videos (to watch **before** your problem session on May 5):
 
