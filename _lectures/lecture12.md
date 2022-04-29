@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
 index: 12
-name: Amortized Analysis and Linear Probing
+name: Amortized Analysis
 released-on: "2022-05-05"
 videos:
-  - title: Amortized Analysis
+  - title: Amortized Analysis and Linear Probing
     url: https://drive.google.com/file/d/1rEXXbwa2YVH8shsZJ14XxmDIIVCak2Pu
 ---
 
