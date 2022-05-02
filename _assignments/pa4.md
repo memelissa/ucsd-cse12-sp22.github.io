@@ -380,9 +380,6 @@ You may encounter errors if you submit extra files or directories. You may submi
 
 ## Scoring (70 points total)
 
-Note that this assignment is **mostly manually graded**, so there's little
-value in submitting after the deadline.
-
 (70 total points)
 - 16 points `measure` and `measurementsToCSV` [autograded]
 - 12 points initial big-O justifications [manually graded]
