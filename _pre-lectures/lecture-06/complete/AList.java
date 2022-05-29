@@ -5,7 +5,7 @@ public class AList<E> implements List<E> {
 
   @SuppressWarnings("unchecked")
   public AList() {
-    this.elements = (E[])(new Object[2]);
+    this.elements = (E[])(new Object[2]); // cannot new E[2] a generic array 
     this.size = 0;
   }
 
@@ -25,7 +25,7 @@ public class AList<E> implements List<E> {
     return this.size;
   }
 
-  @SuppressWarnings("unchecked")
+  @SuppressWarnings("unchecked")// removes warning and passes 
   private void expandCapacity() {
     // NOTE: I changed currentSize to currentCapacity below
     // because it's a better name for the variable
@@ -33,7 +33,7 @@ public class AList<E> implements List<E> {
     if(this.size < currentCapacity) { return; }
 
     E[] expanded = (E[])(new Object[currentCapacity * 2]);
-
+    //^ creates new variable. creates object array passed to E[]
     for(int i = 0; i < this.size; i += 1) {
       expanded[i] = this.elements[i];
     }

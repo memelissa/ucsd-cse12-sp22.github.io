@@ -25,7 +25,7 @@ public class TestList {
   @Test
   public void testListOfLists() {
     List<List<String>> bllist = new AList<List<String>>();
-
+                                    // AList is a class. Use a generic interface in the <>
     bllist.add(new AList<String>());
     bllist.add(new AList<String>());
     bllist.get(0).add("a");
@@ -37,6 +37,8 @@ public class TestList {
     assertEquals("b", bllist.get(0).get(1));
     assertEquals("c", bllist.get(1).get(0));
     assertEquals("d", bllist.get(1).get(1));
+
+    //cannot do new List. List is an interface not a class
 
   }
 

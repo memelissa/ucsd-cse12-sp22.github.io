@@ -4,7 +4,7 @@ interface Stack<E> {
 	void push(E element);
 	E pop();
 	int size();
-	E peek();
+	E peek(); // looks but doesnt remove from queue
 }
 
 public class ALStack<E> implements Stack<E> {
